@@ -1,0 +1,8 @@
+{
+  "name": "uam-wmi-pzc-487174-z-2-1",
+  "description": "UAM Classes 487174",
+  "version": "1.0.0",
+  "engines": {
+    "node": "20.x"
+  }
+}
